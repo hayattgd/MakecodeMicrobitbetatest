@@ -9,8 +9,7 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "main.py",
-        "Creator.ts"
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
@@ -18,5 +17,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
