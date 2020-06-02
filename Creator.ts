@@ -1,1 +1,4 @@
-// ここにコードを追加します
+basic.showString("Gabit")
+for(let i = 0; i < 5; i++) {
+
+}
